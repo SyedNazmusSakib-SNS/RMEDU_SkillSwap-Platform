@@ -1,4 +1,8 @@
-'''
+
+
+Here's a detailed file and folder structure based on your provided images and descriptions. This structure includes all necessary files and directories for a typical Django project.
+
+```
 Skill-Swap/
 ├── accounts/
 │   ├── __pycache__/
@@ -81,7 +85,7 @@ Skill-Swap/
   - **urls.py**: URL configurations.
   - **views.py**: View functions.
 
-#### Project/Blog Directory
+#### Blog Directory
 - **__pycache__/**: Python cache files.
 - **migrations/**: Database migration files.
 - **static/**: Static files for the blog app.
